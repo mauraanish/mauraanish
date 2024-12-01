@@ -4,4 +4,4 @@
 - 📝 I’m currently enrolled in a Data Analytics and Computational Social Science Master's Program at UMass Amherst.
 - 💻 I have experience working in R, Python, SQL, and Microsoft Excel.
 - 📫 I can be reached on LinkedIn (www.linkedin.com/in/maura-anish) or via email at mbanish@umass.edu.
-- 🎥 Fun fact: When I'm not working with/reading about data, I'm most likely watching a movie!
+- 🎥 Fun fact: When I'm not working with data, I'm most likely watching a movie!
